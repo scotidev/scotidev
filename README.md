@@ -96,7 +96,7 @@ Para facilitar adicionar novas tecnologias
 </p>
 
 ## 🌐 Projetos Web
-- [Food Explorer](https://github.com/gabrielscoti42/food-explorer)
+- [Food Explorer](https://github.com/gabrielscoti42/FrontEndFoodExplorer)
 
 ## 📫 Contato
 <p align="center">
