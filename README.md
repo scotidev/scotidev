@@ -4,7 +4,7 @@
 </h1>
 
 <!-- Meu nome e ocupações --> 
-<p align="center"><strong>Gabriel Scoti de Olveira</strong></p>
+<p align="center"><strong>Gabriel Scoti de Oliveira</strong></p>
 <h3 align="center">🎮 Desenvolvedor de Games | 🌐 Desenvolvedor Web </h3>
 <p align="center">
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHloa3d0YW94bHRnbHQ1NGpzdjloZGE4eXVuejIyZXR2MGxua2NqNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ghyEb0DdhEzupXAr8X/giphy.gif" width="400"/>
