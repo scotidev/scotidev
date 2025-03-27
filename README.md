@@ -100,7 +100,7 @@ Para facilitar adicionar novas tecnologias
 
 ## 📫 Contato
 <p align="center">
-  <a href="https://linkedin.com/in/gabrielscoti42" target="_blank">
+  <a href="https://www.linkedin.com/in/gabrielscoti/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 <!--
