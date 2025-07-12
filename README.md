@@ -34,9 +34,7 @@
     <td align="center">
       <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" /><br>
       <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" /><br>
-      <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" /><br>
       <img src="https://img.shields.io/badge/-Blender-333333?style=for-the-badge&logo=blender" /><br>
-      <img src="https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white" />
     </td>
     <!-- Frontend --> 
     <td align="center">
