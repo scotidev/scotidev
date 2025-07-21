@@ -1,10 +1,10 @@
 <!-- Mensagem de Boas vindas usando svg typing --> 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=500&lines=Bem-vindo+ao+meu+perfil!;Entre+em+contato!">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=500&lines=Bem-vindo+ao+meu+perfil!;A+resposta+é+42!">
 </h1>
 
 <!-- Meu nome e ocupações --> 
-<h2 align="center"><strong>Gabriel Scoti de Oliveira</strong></h2>
+<h3 align="center"><strong>Gabriel Scoti de Oliveira</strong></h3>
 <p align="center">🎮 Desenvolvedor de Games | 🌐 Desenvolvedor Web </p>
 <p align="center">
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHloa3d0YW94bHRnbHQ1NGpzdjloZGE4eXVuejIyZXR2MGxua2NqNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ghyEb0DdhEzupXAr8X/giphy.gif" width="400"/>
@@ -12,9 +12,10 @@
 
 <!-- Status do Github --> 
 <p align="center">
-  <img width="30%" src="https://github-readme-stats.vercel.app/api?username=gabrielscoti42&show_icons=true&theme=radical" />
-  <img width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielscoti42&layout=compact&theme=radical" />
   <img width="30%" src="https://nirzak-streak-stats.vercel.app/?user=gabrielscoti42&theme=radical&hide_border=false" />
+  <img width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielscoti42&layout=compact&theme=radical" />
+  <img width="30%" src="https://github-readme-stats.vercel.app/api?username=gabrielscoti42&show_icons=true&theme=radical" />
+  
 </p>
 
 ## ⛏️ Tecnologias & Ferramentas Utilizadas
