@@ -4,8 +4,8 @@
 </h1>
 
 <!-- Meu nome e ocupações --> 
-<p align="center"><strong>Gabriel Scoti de Oliveira</strong></p>
-<h3 align="center">🎮 Desenvolvedor de Games | 🌐 Desenvolvedor Web </h3>
+<h2 align="center"><strong>Gabriel Scoti de Oliveira</strong></h2>
+<p align="center">🎮 Desenvolvedor de Games | 🌐 Desenvolvedor Web </p>
 <p align="center">
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHloa3d0YW94bHRnbHQ1NGpzdjloZGE4eXVuejIyZXR2MGxua2NqNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ghyEb0DdhEzupXAr8X/giphy.gif" width="400"/>
 </p>
@@ -77,6 +77,7 @@
 <!-- 
 Para facilitar adicionar novas tecnologias
 <img src="" /><br>
+Coloar # Meu website no lugar de "Projetos Web"
 -->
 
 ## 🎮 Meus Jogos
