@@ -18,7 +18,7 @@
   
 </p>
 
-## ⛏️ Tecnologias & Ferramentas Utilizadas
+## Tecnologias & Ferramentas
 
 <!-- Linha de Tópicos  --> 
 <table align="center">
@@ -35,14 +35,13 @@
     <td align="center">
       <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" /><br>
       <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" /><br>
-      <img src="https://img.shields.io/badge/-Blender-333333?style=for-the-badge&logo=blender" /><br>
     </td>
     <!-- Frontend --> 
     <td align="center">
       <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /><br>
       <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /><br>
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /><br>
-      <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" /><br>
+      <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
       <img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white"/><br>
       <img src="https://img.shields.io/badge/Styled_Components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white"/><br>
       <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"/><br>
@@ -54,12 +53,11 @@
       <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" /><br>
       <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
       <img src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white" /><br>
-      <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" /><br>
-      <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens" /><br>
-      <img src="https://img.shields.io/badge/-SQL-000?style=for-the-badge&logo=MySQL&logoColor=4479A1" /><br>
-      <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" />
-      <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" />
+      <img src="https://img.shields.io/badge/Fastify-0D447B?style=for-the-badge&logo=fastify&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/-SQL-000?style=for-the-badge&logo=MySQL&logoColor=4479A1" />
       <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" /><br>
+       <img src="https://img.shields.io/badge/drizzle-%23326192.svg?style=for-the-badge&logo=drizzle&logoColor=white" />
       <img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white" /><br>
       <img src="https://img.shields.io/badge/-Zod-3E67B1?style=for-the-badge&logo=zod&logoColor=white" />
     </td>
@@ -81,18 +79,27 @@ Para facilitar adicionar novas tecnologias
 Coloar # Meu website no lugar de "Projetos Web"
 -->
 
-## 🎮 Meus Jogos
-<p align="center">
-  <a href="https://gabrielscoti42.itch.io/" target="_blank">
-    <img src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white" />
-  </a>
-</p>
+## Links
 
-## 🌐 Projetos Web
-- [Food Explorer](https://github.com/gabrielscoti42/FrontEndFoodExplorer)
-
-## 📫 Contato
-<p align="center">
-  <a href="https://www.linkedin.com/in/gabrielscoti/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
+<table align="center">
+  <tr>
+    <td align="center">
+      <h3> 📫 Contato</h3>
+      <a href="https://www.linkedin.com/in/scotidev/" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+      </a>
+    </td>
+    <td align="center">
+      <h3> 🌐 Meu Website</h3>
+      <a href="https://scotidev.me" target="_blank">
+        <img src="https://img.shields.io/badge/Website-2F80ED?style=for-the-badge&logo=google-chrome&logoColor=white" />
+      </a>
+    </td>
+    <td align="center">
+      <h3> 🎮 Meus Jogos</h3>
+      <a href="https://scotidev.itch.io/" target="_blank">
+        <img src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white" />
+      </a>
+    </td>
+  </tr>
+</table>
