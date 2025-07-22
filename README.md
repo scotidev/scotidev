@@ -12,9 +12,9 @@
 
 <!-- Status do Github --> 
 <p align="center">
-  <img width="30%" src="https://nirzak-streak-stats.vercel.app/?user=gabrielscoti42&theme=radical&hide_border=false" />
-  <img width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielscoti42&layout=compact&theme=radical" />
-  <img width="30%" src="https://github-readme-stats.vercel.app/api?username=gabrielscoti42&show_icons=true&theme=radical" />
+  <img width="30%" src="https://nirzak-streak-stats.vercel.app/?user=scotidev&theme=radical&hide_border=false" />
+  <img width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=scotidev&layout=compact&theme=radical" />
+  <img width="30%" src="https://github-readme-stats.vercel.app/api?username=scotidev&show_icons=true&theme=radical" />
   
 </p>
 
