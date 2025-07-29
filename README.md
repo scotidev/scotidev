@@ -49,7 +49,7 @@
     </td>
     <!-- Backend --> 
     <td align="center">
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /><br>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
       <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" /><br>
       <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
       <img src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white" /><br>
@@ -57,8 +57,9 @@
       <img src="https://img.shields.io/badge/Fastify-0D447B?style=for-the-badge&logo=fastify&logoColor=white" /><br>
       <img src="https://img.shields.io/badge/-SQL-000?style=for-the-badge&logo=MySQL&logoColor=4479A1" />
       <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" /><br>
-       <img src="https://img.shields.io/badge/drizzle-%23326192.svg?style=for-the-badge&logo=drizzle&logoColor=white" />
+      <img src="https://img.shields.io/badge/drizzle-%23326192.svg?style=for-the-badge&logo=drizzle&logoColor=white" />
       <img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/-Knex.js-ff5?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
       <img src="https://img.shields.io/badge/-Zod-3E67B1?style=for-the-badge&logo=zod&logoColor=white" />
     </td>
     <!-- Outras ferramentas --> 
