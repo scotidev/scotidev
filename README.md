@@ -1,6 +1,6 @@
 <!-- Mensagem de Boas vindas usando svg typing --> 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=500&lines=Bem-vindo+ao+meu+perfil!;A+resposta+é+42!">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=500&lines=Bem-vindo+ao+meu+perfil!;DON'T+PANIC!";Eu+costumava+ser+um+aventureiro+como+você...;>
 </h1>
 
 <!-- Meu nome e ocupações --> 
@@ -34,8 +34,11 @@
     <!-- Games --> 
     <td align="center">
       <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" /><br>
-      <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" /><br>
-      <img src="https://img.shields.io/badge/Aseprite-000000?style=for-the-badge&logo=aseprite&logoColor=white" />
+      <img src="https://img.shields.io/badge/Aseprite-000000?style=for-the-badge&logo=aseprite&logoColor=white" /> <br>
+      <img src="https://img.shields.io/badge/Krita-002251?style=for-the-badge&logo=krita&logoColor=white" /> <br>
+      <img src="https://img.shields.io/badge/Blender-E87D0D?style=for-the-badge&logo=blender&logoColor=white" /> <br>
+      <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
     </td>
     <!-- Frontend --> 
     <td align="center">
