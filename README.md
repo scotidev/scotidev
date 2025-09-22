@@ -1,6 +1,6 @@
 <!-- Mensagem de Boas vindas usando svg typing --> 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=500&lines=Bem-vindo+ao+meu+perfil!;DON'T+PANIC!;Eu+costumava+ser+um+aventureiro+como+você...">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Bem-vindo+ao+meu+perfil!;DON'T+PANIC!;I+used+to+be+an+adventurer+like+you...">
 </h1>
 
 <!-- Meu nome e ocupações --> 
