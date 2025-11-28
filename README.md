@@ -12,10 +12,9 @@
 
 <!-- Status do Github --> 
 <p align="center">
-  <img width="30%" src="https://nirzak-streak-stats.vercel.app/?user=scotidev&theme=radical&hide_border=false" />
+  <img width="30%" src="https://github-readme-stats.vercel.app/api?username=scotidev&show_icons=true&theme=radical&cache_buster=2" />  
   <img width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=scotidev&layout=compact&theme=radical&cache_buster=1" />
-  <img width="30%" src="https://github-readme-stats.vercel.app/api?username=scotidev&show_icons=true&theme=radical&cache_buster=2" />
-  
+  <img width="30%" src="https://nirzak-streak-stats.vercel.app/?user=scotidev&theme=radical&hide_border=false" />
 </p>
 
 ## Tecnologias & Ferramentas
