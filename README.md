@@ -14,7 +14,7 @@
 
 <p align="center">
   <img width="30%" src="https://nirzak-streak-stats.vercel.app/?user=scotidev&theme=radical&hide_border=false" />
-  <img width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=scotidev&layout=compact&theme=radical&cache_buster=1" />
+  <img width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=scotidev&layout=compact&theme=radical&" />
   <img width="30%" src="https://github-readme-stats.vercel.app/api?username=scotidev&show_icons=true&theme=radical" />  
 
 </p>
@@ -39,7 +39,6 @@
       <img src="https://img.shields.io/badge/Krita-002251?style=for-the-badge&logo=krita&logoColor=white" /> <br>
       <img src="https://img.shields.io/badge/Blender-E87D0D?style=for-the-badge&logo=blender&logoColor=white" /> <br>
       <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
-      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
     </td>
     <!-- Frontend --> 
     <td align="center">
