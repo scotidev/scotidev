@@ -14,9 +14,8 @@
 
 <p align="center">
   <img width="30%" src="https://nirzak-streak-stats.vercel.app/?user=scotidev&theme=radical&hide_border=false" />
-  <img width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=scotidev&layout=compact&theme=radical&" />
+  <img width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=scotidev&layout=compact&theme=radical" />
   <img width="30%" src="https://github-readme-stats.vercel.app/api?username=scotidev&show_icons=true&theme=radical" />  
-
 </p>
 
 ## Tecnologias & Ferramentas
@@ -36,6 +35,7 @@
     <td align="center">
       <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" /><br>
       <img src="https://img.shields.io/badge/Aseprite-000000?style=for-the-badge&logo=aseprite&logoColor=white" /> <br>
+      <img src="https://img.shields.io/badge/Clip_Studio_Paint-00B0D8?style=for-the-badge&logo=clip-studio-paint&logoColor=white" />
       <img src="https://img.shields.io/badge/Krita-002251?style=for-the-badge&logo=krita&logoColor=white" /> <br>
       <img src="https://img.shields.io/badge/Blender-E87D0D?style=for-the-badge&logo=blender&logoColor=white" /> <br>
       <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
