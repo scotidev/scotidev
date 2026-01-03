@@ -26,14 +26,20 @@
 
 <h2 align="center">Destaques</h2>
 
-<p align="center">
-  <a href="https://github.com/scotidev/FrontEndFoodExplorer">
-    <img width="50%" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=scotidev&repo=FrontEndFoodExplorer&theme=radical" />
-  </a>
-  <a href="https://github.com/scotidev/ClaroEndlessRunner">
-    <img width="50%" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=scotidev&repo=ClaroEndlessRunner&theme=radical" />
-  </a>
-</p>
+<table align="center">
+  <tr>
+    <td>
+      <a href="https://github.com/scotidev/FrontEndFoodExplorer">
+        <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=scotidev&repo=FrontEndFoodExplorer&theme=radical" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/scotidev/ClaroEndlessRunner">
+        <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=scotidev&repo=ClaroEndlessRunner&theme=radical" />
+      </a>
+    </td>
+  </tr>
+  </table>
 
 <hr>
 
