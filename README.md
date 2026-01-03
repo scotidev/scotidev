@@ -1,14 +1,13 @@
 <!-- Mensagem de Boas vindas usando svg typing --> 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Bem-vindo+ao+meu+perfil!;DON'T+PANIC!;I+used+to+be+an+adventurer+like+you...;The+cake+is+a+lie!;Ahww+sh**,+here+we+go+again...">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Welcome+to+my+profile!;DON'T+PANIC!;I+used+to+be+an+adventurer+like+you...;The+cake+is+a+lie!;Ahww+sh**,+here+we+go+again...">
 </h1>
 
 <!-- Meu nome e ocupações --> 
 <h3 align="center"><strong>Gabriel Scoti de Oliveira</strong></h3>
-<p align="center">🎮 Desenvolvedor de Games | 🌐 Desenvolvedor Web </p>
+<p align="center">🎮 Game Developer | 🌐 Web Developer </p>
 <p align="center">
-  Sou um desenvolvedor independente que sonha em viver da criação de games e experiências web.<br>
-  Meu perfil é meu laboratório pessoal, aqui é onde exploro e guardo minhas ideias.
+  I am an independent developer who dreams of making a living by creating games and web experiences. My profile is my personal laboratory, this is where I explore and store my ideas.
 </p>
 <p align="center">
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHloa3d0YW94bHRnbHQ1NGpzdjloZGE4eXVuejIyZXR2MGxua2NqNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ghyEb0DdhEzupXAr8X/giphy.gif" width="400"/>
@@ -24,7 +23,7 @@
 
 <hr>
 
-<h2 align="center">Destaques</h2>
+<h2 align="center">Spotlight</h2>
 
 <table align="center">
   <tr>
@@ -43,7 +42,7 @@
 
 <hr>
 
-<h2 align="center">Tecnologias & Ferramentas </h2>
+<h2 align="center">Tech Stack</h2>
 
 <!-- Linha de Tópicos  --> 
 <table align="center">
@@ -51,7 +50,7 @@
     <td align="center"><strong>🎮 Game Development</strong></td>
     <td align="center"><strong>💅 Web Development (Front-end)</strong></td>
     <td align="center"><strong>🐳 Web Development (Back-end)</strong></td>
-    <td align="center"><strong>:octocat: Outras Ferramentas</strong></td>
+    <td align="center"><strong>:octocat: Other Tools</strong></td>
   </tr>
   
   <!-- Linha de Conteúdos --> 
@@ -108,7 +107,7 @@ Para facilitar adicionar novas tecnologias
 Coloar # Meu website no lugar de "Projetos Web"
 -->
 
-<h2 align="center">Contato </h2>
+<h2 align="center">Contact </h2>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/scotidev/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
