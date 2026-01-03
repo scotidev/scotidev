@@ -28,10 +28,10 @@
 
 <p align="center">
   <a href="https://github.com/scotidev/FrontEndFoodExplorer">
-    <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=scotidev&repo=FrontEndFoodExplorer&theme=radical" />
+    <img width="50%" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=scotidev&repo=FrontEndFoodExplorer&theme=radical" />
   </a>
   <a href="https://github.com/scotidev/ClaroEndlessRunner">
-    <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=scotidev&repo=ClaroEndlessRunner&theme=radical" />
+    <img width="50%" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=scotidev&repo=ClaroEndlessRunner&theme=radical" />
   </a>
 </p>
 
