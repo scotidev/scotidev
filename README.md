@@ -7,7 +7,7 @@
 <h3 align="center"><strong>Gabriel Scoti de Oliveira</strong></h3>
 <p align="center">🎮 Game Developer | 🌐 Web Developer </p>
 <p align="center">
-  I am an independent developer who dreams of making a living by creating games and web experiences. My profile is my personal laboratory, this is where I explore and store my ideas.
+  I am an independent developer who dreams of making a living by creating games and web experiences. <br> My profile is my personal laboratory, this is where I explore and store my ideas.
 </p>
 <p align="center">
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHloa3d0YW94bHRnbHQ1NGpzdjloZGE4eXVuejIyZXR2MGxua2NqNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ghyEb0DdhEzupXAr8X/giphy.gif" width="400"/>
