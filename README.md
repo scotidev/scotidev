@@ -1,9 +1,7 @@
-<!-- Mensagem de Boas vindas usando svg typing --> 
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Welcome+to+my+profile!;DON'T+PANIC!;I+used+to+be+an+adventurer+like+you...;The+cake+is+a+lie!;Ahww+sh**,+here+we+go+again...">
 </h1>
 
-<!-- Meu nome e ocupações --> 
 <h3 align="center"><strong>Gabriel Scoti de Oliveira</strong></h3>
 <p align="center">🎮 Game Developer | 🌐 Web Developer </p>
 <p align="center">
@@ -13,12 +11,8 @@
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHloa3d0YW94bHRnbHQ1NGpzdjloZGE4eXVuejIyZXR2MGxua2NqNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ghyEb0DdhEzupXAr8X/giphy.gif" width="400"/>
 </p>
 
-<!-- Status do Github --> 
-
 <p align="center">
-  <img width="30%" src="https://nirzak-streak-stats.vercel.app/?user=scotidev&theme=radical&hide_border=false" />
-  <img width="30%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=scotidev&layout=compact&theme=radical" />
-  <img width="30%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=scotidev&show_icons=true&theme=radical" />  
+  <img width="30%" src="https://github-readme-stats-opal-delta-58.vercel.app/api/top-langs/?username=scotidev&layout=compact&theme=radical" />
 </p>
 
 <hr>
@@ -29,12 +23,12 @@
   <tr>
     <td>
       <a href="https://github.com/scotidev/FrontEndFoodExplorer">
-        <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=scotidev&repo=FrontEndFoodExplorer&theme=radical" />
+        <img height="150em" src="https://github-readme-stats-opal-delta-58.vercel.app/api/pin/?username=scotidev&repo=FrontEndFoodExplorer&theme=radical" />
       </a>
     </td>
     <td>
       <a href="https://github.com/scotidev/ClaroEndlessRunner">
-        <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=scotidev&repo=ClaroEndlessRunner&theme=radical" />
+        <img height="150em" src="https://github-readme-stats-opal-delta-58.vercel.app/api/pin/?username=scotidev&repo=ClaroEndlessRunner&theme=radical" />
       </a>
     </td>
   </tr>
@@ -44,7 +38,6 @@
 
 <h2 align="center">Tech Stack</h2>
 
-<!-- Linha de Tópicos  --> 
 <table align="center">
   <tr>
     <td align="center"><strong>🎮 Game Development</strong></td>
@@ -53,9 +46,7 @@
     <td align="center"><strong>:octocat: Other Tools</strong></td>
   </tr>
   
-  <!-- Linha de Conteúdos --> 
   <tr>
-    <!-- Games --> 
     <td align="center">
       <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" /><br>
       <img src="https://img.shields.io/badge/Aseprite-000000?style=for-the-badge&logo=aseprite&logoColor=white" /> <br>
@@ -64,7 +55,6 @@
       <img src="https://img.shields.io/badge/Blender-E87D0D?style=for-the-badge&logo=blender&logoColor=white" /> <br>
       <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
     </td>
-    <!-- Frontend --> 
     <td align="center">
       <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /><br>
       <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /><br>
@@ -75,7 +65,6 @@
       <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"/><br>
       <img src="https://img.shields.io/badge/axios.js-854195?style=for-the-badge&logo=axios&logoColor=5A29E4"/>
     </td>
-    <!-- Backend --> 
     <td align="center">
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
       <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" /><br>
@@ -90,7 +79,6 @@
       <img src="https://img.shields.io/badge/-Knex.js-ff5?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
       <img src="https://img.shields.io/badge/-Zod-3E67B1?style=for-the-badge&logo=zod&logoColor=white" />
     </td>
-    <!-- Outras ferramentas --> 
     <td align="center">
       <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /><br>
       <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /><br>
@@ -101,11 +89,6 @@
 </table>
 
 <hr>
-<!-- 
-Para facilitar adicionar novas tecnologias
-<img src="" /><br>
-Coloar # Meu website no lugar de "Projetos Web"
--->
 
 <h2 align="center">Contact </h2>
 
