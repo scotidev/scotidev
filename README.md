@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center"><strong>Gabriel Scoti de Oliveira</strong></h3>
-<p align="center">🎮 Game Developer | 🌐 Web Developer </p>
+<p align="center">🎮 Game Developer & 🌐 Web Developer Student</p>
 <p align="center">
   I am an independent developer who dreams of making a living by creating games and web experiences. <br> My profile is my personal laboratory, this is where I explore and store my ideas.
 </p>
