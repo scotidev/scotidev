@@ -58,6 +58,7 @@
       <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />  
       <img src="https://img.shields.io/badge/Blender-E87D0D?style=for-the-badge&logo=blender&logoColor=white" />  
       <img src="https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B" />  
+      <img src="https://img.shields.io/badge/Aseprite-7D929E?style=for-the-badge&logo=aseprite&logoColor=white" />
       <img src="https://img.shields.io/badge/Clip_Studio_Paint-21A6B1?style=for-the-badge&logo=icloud&logoColor=white" />
     </td>
   </tr>
