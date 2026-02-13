@@ -49,9 +49,6 @@
   <tr>
     <td align="center">
       <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" /><br>
-      <img src="https://img.shields.io/badge/Aseprite-000000?style=for-the-badge&logo=aseprite&logoColor=white" /> <br>
-<img src="https://img.shields.io/badge/Clip_Studio_Paint-00B0D8?style=for-the-badge&logo=clip-studio-paint&logoColor=white" />
-      <img src="https://img.shields.io/badge/Krita-002251?style=for-the-badge&logo=krita&logoColor=white" /> <br>
       <img src="https://img.shields.io/badge/Blender-E87D0D?style=for-the-badge&logo=blender&logoColor=white" /> <br>
       <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
     </td>
@@ -69,21 +66,15 @@
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
       <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" /><br>
       <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-      <img src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white" /><br>
       <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" />
       <img src="https://img.shields.io/badge/Fastify-0D447B?style=for-the-badge&logo=fastify&logoColor=white" /><br>
       <img src="https://img.shields.io/badge/-SQL-000?style=for-the-badge&logo=MySQL&logoColor=4479A1" />
       <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" /><br>
-      <img src="https://img.shields.io/badge/drizzle-%23326192.svg?style=for-the-badge&logo=drizzle&logoColor=white" />
-      <img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white" /><br>
-      <img src="https://img.shields.io/badge/-Knex.js-ff5?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-      <img src="https://img.shields.io/badge/-Zod-3E67B1?style=for-the-badge&logo=zod&logoColor=white" />
     </td>
     <td align="center">
       <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /><br>
       <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /><br>
       <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" /><br>
-      <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" /><br>
     </td>
   </tr>
 </table>
