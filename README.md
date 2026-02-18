@@ -1,7 +1,7 @@
 <h1 align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Welcome+to+my+profile!;DON'T+PANIC!;I+used+to+be+an+adventurer+like+you...;The+cake+is+lie!;Ahww+sh**,+here+we+go+again...">
 </h1> <h3 align="center"><strong>Gabriel Scoti de Oliveira</strong></h3>
-<p align="center">🎮 Game Developer & 🌐 Web Developer Student</p>
+<p align="center">Game Developer & Web Developer Student</p>
 <p align="center">
   I am an independent developer who dreams of making a living by creating games and web experiences.   
  My profile is my personal laboratory, this is where I explore and store my ideas.
@@ -35,7 +35,7 @@
     <td align="center">
       <img src="https://img.shields.io/badge/Unity-222C37?style=for-the-badge&logo=unity&logoColor=white" />  
       <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=c-sharp&logoColor=white" />
-      <img src="https://img.shields.io/badge/Unreal_Engine-0E1128?style=for-the-badge&logo=unreal-engine&logoColor=white" />
+      <img src="https://img.shields.io/badge/Unreal-0E1128?style=for-the-badge&logo=unreal-engine&logoColor=white" />
       <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
       <img src="https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white" />
       <img src="https://img.shields.io/badge/Blender-E87D0D?style=for-the-badge&logo=blender&logoColor=white" />  
