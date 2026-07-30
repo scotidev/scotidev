@@ -60,10 +60,11 @@ This is my profile, where I explore and store my ideas.
     <td align="center">
       <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />  
       <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />  
-      <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />  
+      <img src="https://img.shields.io/badge/OpenCode-1A1A1A?style=for-the-badge&logo=OpenCode&logoColor=white" />
       <img src="https://img.shields.io/badge/Krita-3178C6?style=for-the-badge&logo=krita&logoColor=white" />  
       <img src="https://img.shields.io/badge/Blender-E87D0D?style=for-the-badge&logo=blender&logoColor=white" />  
       <img src="https://img.shields.io/badge/Aseprite-7D929E?style=for-the-badge&logo=aseprite&logoColor=white" />
+      <!-- <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />  LEGACY -->
       <!-- <img src="https://img.shields.io/badge/n8n-FF6D5B?style=for-the-badge&logo=n8n&logoColor=white" /> LEGACY -->
     </td>
   </tr>
