@@ -23,7 +23,7 @@ This is my profile, where I explore and store my ideas.
       </a>
     </td>
   </tr>
-  </table> <hr> <h2 align="center">I'm Learning...</h2> <table align="center">
+  </table> <hr> <h2 align="center">Tech Stack</h2> <table align="center">
   <table align="center">
   <tr>
     <td align="center"><strong>🎮 Game Development </strong></td>
