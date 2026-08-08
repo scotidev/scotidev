@@ -66,8 +66,9 @@ This is my profile, where I explore and store my ideas.
       <img src="https://img.shields.io/badge/Aseprite-7D929E?style=for-the-badge&logo=aseprite&logoColor=white" />
       <img src="https://img.shields.io/badge/OpenCode-1A1A1A?style=for-the-badge&logo=OpenCode&logoColor=white" />
       <img src="https://img.shields.io/badge/hermes-6366F1?style=for-the-badge&logo=hermes&logoColor=white" />
-      <img src="https://img.shields.io/badge/Obsidian-7C3AED?style=for-the-badge&logo=obsidian&logoColor=white" />
       <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
+      <img src="https://img.shields.io/badge/ClickUp-7B68EE?style=for-the-badge&logo=clickup&logoColor=white" />
+      <!-- <img src="https://img.shields.io/badge/Obsidian-7C3AED?style=for-the-badge&logo=obsidian&logoColor=white" /> LEGACY -->
       <!-- <img src="https://img.shields.io/badge/n8n-FF6D5B?style=for-the-badge&logo=n8n&logoColor=white" /> LEGACY -->
     </td>
   </tr>
