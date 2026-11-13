@@ -26,8 +26,9 @@ This is my profile, where I explore and store my ideas.
   </table> <hr> <h2 align="center">Tech Stack</h2> <table align="center">
   <table align="center">
   <tr>
-    <td align="center"><strong>🎮 Game Development </strong></td>
-    <td align="center"><strong>:computer: Web Development </strong></td>
+    <td align="center"><strong>🎮 Game Dev </strong></td>
+    <td align="center"><strong>:computer: Web Dev </strong></td>
+    <td align="center"><strong>📱 App Dev </strong></td>
     <td align="center"><strong>:octocat: Tools </strong></td>
   </tr>
   <tr>
@@ -51,6 +52,12 @@ This is my profile, where I explore and store my ideas.
       <!-- <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />  LEGACY -->
       <!-- <img src="https://img.shields.io/badge/Fastify-000000?style=for-the-badge&logo=fastify&logoColor=white" />  LEGACY -->
       <!-- <img src="https://img.shields.io/badge/-SQL-000?style=for-the-badge&logo=MySQL&logoColor=4479A1" />  LEGACY -->
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+      <img src="https://img.shields.io/badge/Expo-000000?style=for-the-badge&logo=expo&logoColor=white" />
+      <img src="https://img.shields.io/badge/Firebase-DD2C00?style=for-the-badge&logo=firebase&logoColor=white" />
+      <img src="https://img.shields.io/badge/RevenueCat-1F1F1F?style=for-the-badge&logo=revenuecat&logoColor=white" />
     </td>
     <td align="center">
       <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />  
